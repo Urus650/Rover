@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <unistd.h>
 //comment
+//second comment
 
 typedef struct OutputControler{
     float speed_motor[6];
