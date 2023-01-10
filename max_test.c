@@ -6,7 +6,7 @@
 #include "max.h"
 
 #include <stdio.h>  // for printf
-
+//comment 1
 /* Test Suite setup and cleanup functions: */
 
 int init_suite(void) { return 0; }
