@@ -14,7 +14,7 @@ typedef struct Capteurs{
     float capteur_temperature;
     float capteur_radar[5];
 } Capteurs;
-
+//comment
 
 
 #define REDUCTION_TAUX_ECHANTILLONAGE 0.5 //   en %
