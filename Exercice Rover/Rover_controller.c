@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdbool.h>
 #include <unistd.h>
-
+//comment
 
 typedef struct OutputControler{
     float speed_motor[6];
